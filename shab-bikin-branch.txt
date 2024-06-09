@@ -1,1 +1,2 @@
 Ini adalah branch baru yang dibuat shabrina 
+Apapun yang ada dan tertulis di branch ini tidak akan mengganggu master branch
